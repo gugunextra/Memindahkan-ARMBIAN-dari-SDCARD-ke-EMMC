@@ -9,5 +9,5 @@ Lihat isinya apa aja, biasanya ada tulisan install.sh , pada versi lain ada juga
 - ./install.sh 
 Sedangkan untuk versi lain ketik :
 - ./install-aml-gxl-emmc.sh
-- 
+
 Tunggu sampai proses selesai
