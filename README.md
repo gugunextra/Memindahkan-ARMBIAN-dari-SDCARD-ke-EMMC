@@ -1,0 +1,1 @@
+# Memindahkan-ARMBIAN-dari-SDCARD-ke-EMMC
