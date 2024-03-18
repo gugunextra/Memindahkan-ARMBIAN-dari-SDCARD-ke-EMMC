@@ -10,4 +10,10 @@ Lihat isinya apa aja, biasanya ada tulisan install.sh , pada versi lain ada juga
 Sedangkan untuk versi lain ketik :
 - ./install-aml-gxl-emmc.sh
 
-Tunggu sampai proses selesai
+Tunggu sampai proses selesai. Setelah selesai jangan langsung cabut sdcard nya. Kita reboot dulu, ketik reboot
+.
+Login kembali
+.
+Lalu shutdown, ketik : shutdown -h now
+.
+Cabut Sd Card
